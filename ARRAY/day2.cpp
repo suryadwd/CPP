@@ -1,3 +1,12 @@
+// Problem: Find the sun of all element in the array
+// Given an array of integers, find the sum of element.
+//
+// Example:
+// Input: [10, 20, 5, 8, 15]
+// Output: 58
+
+
+
 #include<iostream>
 using namespace std;
 
