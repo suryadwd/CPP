@@ -1,3 +1,14 @@
+// Problem: Find the target of an element in the array
+// Given an array of integers, find the target sum of element in the given array.
+//
+// Example:
+// Input: [1,2,3,4,5]
+// tagetSum: 9
+// Output: 4,5
+
+
+
+
 #include<iostream>
 using namespace std;
 
@@ -23,7 +34,7 @@ int n;
     for(int j = 0; j < n; j++){
       if(arr[i] + arr[j] == targetsum){
         cout<<"Elemnts found"<<endl;
-        cout<<arr[i] <<" "<< arr[j] << endl;
+        cout<<arr[i] <<", "<< arr[j] << endl;
       }
     }
   }
