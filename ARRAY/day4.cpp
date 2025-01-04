@@ -1,3 +1,14 @@
+
+// Problem: Find the target in array of  element 
+// Given an array of integers, find the sum of element.
+//
+// Example:
+// Input: [10, 20, 5, 8, 15]
+// target: 8
+// Output: element found at index: 3
+
+
+
 #include<iostream>
 using namespace std;
 

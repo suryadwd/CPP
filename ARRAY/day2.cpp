@@ -1,4 +1,4 @@
-// Problem: Find the sun of all element in the array
+// Problem: Find the sum of all element in the array
 // Given an array of integers, find the sum of element.
 //
 // Example:
